@@ -1,0 +1,12 @@
+{
+  "public": {
+
+  },
+
+  "private": {
+
+    "AUTH0_CLIENT_ID": "CLIENTID",
+    "AUTH0_DOMAIN": "DOMAIN"
+  }
+
+}
